@@ -1,6 +1,6 @@
 # Telegram Tools
 
-Hi guys! This is my version of Instagram bot with UI, written on C#. Works without the new Instagram [api][2] (the new review process).
+Hi guys! This is my version of Telegram Mass Sender UI, written on C#. 
 
 <a href="https://www.paypal.me/IPirozhenko" title="Support project"><img src="https://img.shields.io/badge/Support%20project-paypal-brightgreen.svg"></a>
 <a href="https://github.com/sochix/TLSharp" title="TLSharp"><img src="https://img.shields.io/badge/TLSharp-1.0.0.0-brightgreen.svg"></a>
@@ -31,4 +31,4 @@ If you want source code of this program - contact me (it is not free).
 
 <img src="http://lionscrayons.com/upload/Shut-up-and-take-my-money.jpg">
 
--[1]: https://github.com/sochix/TLSharp
+- [1]: https://github.com/sochix/TLSharp
